@@ -1,4 +1,2 @@
-### Antonis Ntoulis
-
-- 📫 Email: antonisntoulis@gmail.com
+📫 Email: antonisntoulis@gmail.com
 
